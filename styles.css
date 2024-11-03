@@ -1,0 +1,66 @@
+body {
+    background-image: url(img/poker-green-table-background-vector-600nw-2421518371.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: auto;
+}
+
+h1 {
+    font-family: Courier;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#btn {
+    font-size: 25px;
+    padding: 10px 20px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+#btn:hover {
+    background-color: #ff6600;
+}
+
+#btnres {
+    font-size: 25px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+#btnres:hover {
+    background-color: #ff6600;
+}
+
+h3 {
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Courier;
+    text-align: center;
+    font-weight: bold;
+}
+
+#mrsg {
+    border: wheat 4px solid;
+    padding: 15px auto;
+    font-size: 20px;
+    font-family: Courier;
+    text-align: center;
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+#btnres {
+    display: none;
+}
+
+img {
+    margin: 10px;
+    border-radius: 10px;
+}
